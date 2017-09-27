@@ -7,6 +7,8 @@ Parsnip, and Parsimmon.
 
 Parsy requires Python 3.3 or greater.
 
+This repo is no longer maintained. Instead, see https://github.com/python-parsy/parsy
+
 ## Usage
 
 ### Simple parser generators
